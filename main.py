@@ -47,7 +47,7 @@ plt.rcParams.update({
 # ── Step 1: Load & Join ────────────────────────────────────────────────────────
 print("=" * 60)
 print("  BRAZILIAN E-COMMERCE (OLIST) - ANALYTICS EDA")
-print("  Author: Jimmy Le-Nguyen")
+print("  Author: Vimukti Meshram")
 print("=" * 60)
 
 print("\n[1/6] Loading and joining datasets...")
