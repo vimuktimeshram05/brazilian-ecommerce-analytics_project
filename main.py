@@ -1,7 +1,7 @@
 """
 Brazilian E-Commerce (Olist) - Sales & Customer Analytics EDA
-Author: Jimmy Le-Nguyen
-GitHub: https://github.com/jimmyle9080
+Author: Vimukti Meshram
+GitHub: https://github.com/vimuktimeshram05
 
 Dataset: Brazilian E-Commerce Public Dataset by Olist (Kaggle)
 99,441 orders | 9 relational tables | 2016-2018
