@@ -1,7 +1,7 @@
 # Brazilian E-Commerce (Olist) - Sales & Customer Analytics EDA
 
-**Author:** Jimmy Le-Nguyen  
-**GitHub:** [github.com/jimmyle9080](https://github.com/jimmyle9080)
+**Author:** Vimukti Meshram  
+**GitHub:** github.com/vimuktimeshram05
 
 ---
 
